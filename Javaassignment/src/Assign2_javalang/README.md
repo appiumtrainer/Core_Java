@@ -1,7 +1,7 @@
 java.lang
 =========   
 Here, you will find java.lang API classes & their details.   
-All java.lang programs are covered [Here](https://github.com/mjalleda/Java/tree/master/Javaassignment/src/Assign2_javalang)
+All java.lang programs are covered [Here](https://github.com/mjalleda/Core_Java/tree/master/Javaassignment/src/Assign2_javalang)
 
 **java.lang APIs**  
 [1: Class  API & Object API]  
