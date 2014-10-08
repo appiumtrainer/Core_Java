@@ -153,6 +153,8 @@ String S2 = new String(“Laxmi”);
 String S3 = “Laxmi”;  
 String s4 = “Laxmi”;  
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/String_Tokenizer.png)  
+
 **4: Difference between String API and string buffer API.** Both are string API classes only both are stored in heap memory only. But when you modify String object, JVM will create a new object in the memory and garbage collect the old one. In case of string buffer JVM will modify the existing object the new object is not created whenever string buffer object is modified. That’s why it is advisable to use string buffer if you keep change/modify string values, because it will not create new object every time, just modify the existing object.  Indirectly for better memory management use string buffer not String.
 
 **5: Why to use String buffer why not String?** If you are constantly modifying string value, so it is advisable to use string buffer not string type. Since there are two advantages with string buffer
@@ -193,6 +195,8 @@ There are not programming methods to conversion in primitive types. Where wrappe
 1: Primitive --> String  & String -->  Primitive  
 2: String --> Wrapper  & Wrapper --> Primitive  
 3: Primitive --> Wrapper  & Wrapper --> Primitive
+
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/Datatype_Convertion.png)  
 
 Note: Before 1.5, java didn’t support on converting primitive to wrapper and wrapper to primitive.  In java 1.5 you can directly convert primitive to wrapper classes & wrapper to primitive type.  But in cases 1 & 2, you still have to use methods only.
 
