@@ -49,6 +49,7 @@ Position is exercise1_exception_arithmeticone.java:12).
 
 **2: Exception Hierarchy:**
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/Exceptions_Chart.png)  
 
 **3: Calling an object with their superclass names**  
 - 1: In this diagram Object is a superclass.  
