@@ -1,7 +1,7 @@
 EXCEPTIONS:
 ==============  
 Exceptions topics you will find below.   
-All exceptions programs are covered [Here](https://github.com/mjalleda/Java/tree/master/Javaassignment/src/Assign4_exceptions)
+All exceptions programs are covered [Here](https://github.com/mjalleda/Core_Java/edit/master/Javaassignment/src/Assign4_exceptions/README.md)
 
 **Index**  
 **1: Exceptions:**  
