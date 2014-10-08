@@ -25,6 +25,8 @@ All Collections programs are covered [Here](https://github.com/mjalleda/Core_Jav
 
 **1: Layers in most of programming applications:**
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/Application_Layer.JPG)  
+
 
 **2: Collections:**  
 Collection is nothing but collection of objects OR set of objects. 
@@ -56,6 +58,9 @@ Here is a hierarchy of Collection Interfaces:
 
 Maps represent mappings rather than true collections. However, these interfaces contain collection-view operations, which allow them to be manipulated as collections.
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/Collections_Hirarchy..JPG)  
+
+
 *****************************************************************************				  
 **2: All Lists Classes**
 -------------------------
@@ -70,8 +75,9 @@ Maps represent mappings rather than true collections. However, these interfaces 
 7: Difference between all three. ArrayList, LinkedList and Vector.
 
 
-**1: Lists & Diagram:**
+**1: Lists & Diagram:**  
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/AllList_Classes.png)
 
 In Lists,   
 Interfaces are: Lists  
@@ -167,6 +173,9 @@ In Sets,
 Interfaces are:  Set & Sorted Set   
 Classes are: HashSet & LinkedHashSet & TreeSet.
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/AllSet_Classes.png)
+
+
 1: Sets is a interface which implements collection interface  
 2: Sets: In the map:  
 - Collection is a interface  
@@ -244,6 +253,8 @@ Tree Set: is the mostly used.
 1: All Map Classes & Hirarchy:   
 Interfaces: Maps & SortedHashMap  
 Classes: HashMap, Weak hashMap, Identity HashMap, TreeMap & Hashtable.
+
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/AllMap_Classes.png)
 
 
 1: If you have student class and student names. For ex: Class is Math, Sci and Comp.   
