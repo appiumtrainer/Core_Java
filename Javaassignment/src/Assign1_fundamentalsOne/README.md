@@ -1,7 +1,7 @@
 Core Java Fundamentals
 ======================
 I only covered core java topics here. In this page, you will topics of Fundamentals chapter.     
-You will find all fundamentals programs [Here]()
+You will find all fundamentals programs [Here](https://github.com/mjalleda/Core_Java/tree/master/Javaassignment/src/Assign1_fundamentalsOne)
 
 **Fundamentals:**  
 ___________________  
