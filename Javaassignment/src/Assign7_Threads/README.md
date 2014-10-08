@@ -24,6 +24,8 @@ All Threads programs will find [here](https://github.com/mjalleda/Core_Java/tree
 
 **1: Thread lifecycle:**
 
+![alt tag](https://github.com/mjalleda/Core_Java/blob/master/Javaassignment/Screenshots/Thread_LifeCycle.png)  
+
 
 **1: Thread Life Cycle OR Thread.start() method or threadobject.strat() method.**   
 - When you execute this method for a thread ‘xyz’.  
