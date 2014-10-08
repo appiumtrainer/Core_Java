@@ -1,7 +1,7 @@
 **Threads:**
 --------------  
 Threads topics covered below  
-All Threads programs will find [here](https://github.com/mjalleda/Java/tree/master/Javaassignment/src/Assign7_Threads)    
+All Threads programs will find [here](https://github.com/mjalleda/Core_Java/tree/master/Javaassignment/src/Assign7_Threads)    
 
 **Sub-Topics:**  
 1: Thread Life Cycle OR Thread.start() method or threadobject.strat() method.   
