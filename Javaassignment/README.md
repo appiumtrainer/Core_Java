@@ -120,7 +120,7 @@ Core JAVA:
 4: All Stream Classes  
 5: Serialization
 
-[**Folders:**](https://github.com/mjalleda/Java/tree/master/Javaassignment/)   
+[**Folders:**](https://github.com/mjalleda/Core_Java/tree/master/Javaassignment/)   
 1: Folder: File  
 2: Folder: NewDirectory
 
