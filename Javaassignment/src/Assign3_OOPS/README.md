@@ -32,6 +32,7 @@ How java code gets into memory:
 ******************************************************************************
 **3: Encapsulation**  
 This also a concept not a keyword.  
+- Encapsulation in java is a process of wrapping variables and methods into a single unit, for example capsule i.e. mixed of several medicines. We can create a fully encapsulated class in java by making all the variables and methods of the class private. Now we can use setter and getter methods to set and get the data in it.
 - If all variables/methods in a class are declared as private, that class is called tightly encapsulated.  
 - Encapsulation is tide with class not with variables/methods. If a class contains both private and public/protected/default, that class is called is not completely encapsulated.
 
